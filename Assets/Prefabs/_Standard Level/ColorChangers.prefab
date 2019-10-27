@@ -58,6 +58,7 @@ GameObject:
   - component: {fileID: 23740683762963130}
   - component: {fileID: 135865729714836338}
   - component: {fileID: 54474863348834328}
+  - component: {fileID: 114542481615963944}
   m_Layer: 0
   m_Name: BlueChanger
   m_TagString: BlueChanger
@@ -129,6 +130,7 @@ GameObject:
   - component: {fileID: 23176775430641566}
   - component: {fileID: 135500121849450504}
   - component: {fileID: 54111990084863608}
+  - component: {fileID: 114325673380559036}
   m_Layer: 0
   m_Name: RedChanger
   m_TagString: RedChanger
@@ -148,6 +150,7 @@ GameObject:
   - component: {fileID: 23247483310398628}
   - component: {fileID: 135318076359542864}
   - component: {fileID: 54227492016543500}
+  - component: {fileID: 114280450626972834}
   m_Layer: 0
   m_Name: GreenChanger
   m_TagString: GreenChanger
@@ -182,6 +185,7 @@ GameObject:
   - component: {fileID: 23050550886495836}
   - component: {fileID: 135322659624158264}
   - component: {fileID: 54214686755612150}
+  - component: {fileID: 114409738684959194}
   m_Layer: 0
   m_Name: YellowChanger
   m_TagString: YellowChanger
@@ -613,6 +617,28 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: 
+--- !u!114 &114280450626972834
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1570396991623806}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b78495b41632436f8e3cdc1f5902c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &114325673380559036
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1517794048629168}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b78495b41632436f8e3cdc1f5902c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114351171130927786
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -679,6 +705,17 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: 
+--- !u!114 &114409738684959194
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1628265495452090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b78495b41632436f8e3cdc1f5902c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114414264663905638
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -711,6 +748,17 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &114542481615963944
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1351323417383686}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b78495b41632436f8e3cdc1f5902c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114583048981375904
 MonoBehaviour:
   m_ObjectHideFlags: 1
