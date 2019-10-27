@@ -1,0 +1,16 @@
+  {
+    "levels" : [
+      {
+        "tasks": [
+          {
+            "count" : 1,
+            "color" : "green"
+          },
+          {
+            "count" : 2,
+            "color" : "yellow"
+          }]
+      }
+    ]
+  }
+

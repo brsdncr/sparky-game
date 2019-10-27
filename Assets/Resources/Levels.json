@@ -1,0 +1,120 @@
+  {
+    "allLevels" : [
+      {
+        "levelTasks": [
+          {
+            "count" : 1,
+            "color" : "green"
+          }]
+      },
+        {
+            "levelTasks": [
+                {
+                    "count": 2,
+                    "color": "blue"
+                }
+            ]
+        },
+        {
+            "levelTasks": [
+                {
+                    "count": 3,
+                    "color": "yellow"
+                }
+            ]
+        },
+        {
+            "levelTasks": [
+                {
+                    "count": 4,
+                    "color": "green"
+                }
+            ]
+        },
+        {
+            "levelTasks": [
+                {
+                    "count": 1,
+                    "color": "blue"
+                },
+                {
+                    "count": 1,
+                    "color": "red"
+                }
+            ]
+        },
+        {
+            "levelTasks": [
+                {
+                    "count": 1,
+                    "color": "yellow"
+                },
+                {
+                    "count": 1,
+                    "color": "green"
+                }
+            ]
+        },
+        {
+            "levelTasks": [
+                {
+                    "count": 2,
+                    "color": "blue"
+                },
+                {
+                    "count": 1,
+                    "color": "yellow"
+                }
+            ]
+        },
+        {
+            "levelTasks": [
+                {
+                    "count": 2,
+                    "color": "green"
+                },
+                {
+                    "count": 2,
+                    "color": "red"
+                }
+            ]
+        },
+        {
+            "levelTasks": [
+                {
+                    "count": 1,
+                    "color": "blue"
+                },
+                {
+                    "count": 1,
+                    "color": "red"
+                },
+                {
+                    "count": 1,
+                    "color": "green"
+                }
+            ]
+        },
+        {
+            "levelTasks": [
+                {
+                    "count": 1,
+                    "color": "blue"
+                },
+                {
+                    "count": 1,
+                    "color": "red"
+                },
+                {
+                    "count": 1,
+                    "color": "green"
+                },
+                {
+                    "count": 1,
+                    "color": "yellow"
+                }
+            ]
+        }
+    ]
+  }
+

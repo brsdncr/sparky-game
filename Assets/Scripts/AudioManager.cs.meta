@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 12c386afc48454b22aa0e8b6158c01f1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cubeDeathAudio: {fileID: 8300000, guid: 19f89c6e740e7447f9e12a8310d3e973, type: 3}
+  - playerDeathAudio: {fileID: 8300000, guid: cabfae866cab347928b74b7d0ca6bfa9, type: 3}
+  - backGroundMusic: {fileID: 8300000, guid: b257b5151de6d4b8a8bc14156338e4fa, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
